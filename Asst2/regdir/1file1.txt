@@ -1,0 +1,1 @@
+12 13 this is file1.txt in the directory of regdir!

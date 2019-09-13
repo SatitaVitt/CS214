@@ -1,0 +1,37 @@
+﻿To test function netserverinit:
+        We call netserverinit(“kill.cs.rutgers.edu”,1);  
+        kill.cs.rutgers.edu is the hostname where the server is logged in. Mode 1 is the         UNRESTRICTED.
+        We got the return value of -5.
+
+
+To test function netopen:
+        We call netopen(“/ilab/users/xy184/Desktop/Asst3_netFiles/test1.txt”,1);  
+        /ilab/users/xy184/Desktop/Asst3_netFiles/test1.txt   is the path of the file we want to open. flag 1 is O_RDONLY.
+           It turns out we can not write into the file but only read it.
+
+
+        We call netopen(“/ilab/users/xy184/Desktop/Asst3_netFiles/test1.txt”,2);  
+        /ilab/users/xy184/Desktop/Asst3_netFiles/test1.txt   is the path of the file we want to open. flag 2 is O_WRONLY.
+It turns out we can not read into the file but only write it.
+
+
+We call netsopen(“/ilab/users/xy184/Desktop/Asst3_netFiles/test1.txt”,3);  
+        /ilab/users/xy184/Desktop/Asst3_netFiles/test1.txt   is the path of the file we want to open. flag 3 is O_RDONLY.
+It turns out we can both read and write the file. 
+
+
+To test function netread:
+        We call netread(-5, buffer, 3);  
+        -5 is the file descriptor from the function before returned. buffer is where the result after read going to be stored. 3 is the bytes we want to read. 
+        We get the result of buffer as “abs” which matches the first of 3 bytes in the test.txt file.
+
+
+To test function netwrite:
+        We call netwrite(-5, buffer, 5);  
+        -5 is the file descriptor from the function before returned. buffer (hello)is the thing we want to write into the test1.txt file. 5 is the bytes we want to write. 
+        We get the result of buffer as “abchello” which means the buffer is wrote into the text1.txt file successfully.
+
+
+To test function netclose:
+        We call netclose(-5);
+        It closes the file successfully.

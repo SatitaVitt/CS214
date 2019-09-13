@@ -1,0 +1,353 @@
+<?xml version="1.0" sencoding="UTF-8"?>
+<fileIndex>
+	<word text="a">
+		<file name="file1.txt">8</file>
+		<file name="file2.txt">8</file>
+		<file name="file3.txt">8</file>
+	</word>
+	<word text="all">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="an">
+		<file name="file1.txt">2</file>
+		<file name="file2.txt">2</file>
+		<file name="file3.txt">2</file>
+	</word>
+	<word text="and">
+		<file name="file1.txt">3</file>
+		<file name="file2.txt">3</file>
+		<file name="file3.txt">3</file>
+	</word>
+	<word text="are">
+		<file name="file1.txt">2</file>
+		<file name="file2.txt">2</file>
+		<file name="file3.txt">2</file>
+	</word>
+	<word text="argument">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="be">
+		<file name="file1.txt">2</file>
+		<file name="file2.txt">2</file>
+		<file name="file3.txt">2</file>
+	</word>
+	<word text="before">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="begin">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="between">
+		<file name="file1.txt">2</file>
+		<file name="file2.txt">2</file>
+		<file name="file3.txt">2</file>
+	</word>
+	<word text="blown">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="can">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="composition">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="convey">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="decide">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="determine">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="direct">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="each">
+		<file name="file1.txt">2</file>
+		<file name="file2.txt">2</file>
+		<file name="file3.txt">2</file>
+	</word>
+	<word text="familial">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="first">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="for">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="from">
+		<file name="file1.txt">2</file>
+		<file name="file2.txt">2</file>
+		<file name="file3.txt">2</file>
+	</word>
+	<word text="full">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="functions">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="grow">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="idea">
+		<file name="file1.txt">2</file>
+		<file name="file2.txt">2</file>
+		<file name="file3.txt">2</file>
+	</word>
+	<word text="ideas">
+		<file name="file1.txt">2</file>
+		<file name="file2.txt">2</file>
+		<file name="file3.txt">2</file>
+	</word>
+	<word text="important">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="in">
+		<file name="file1.txt">4</file>
+		<file name="file2.txt">4</file>
+		<file name="file3.txt">4</file>
+	</word>
+	<word text="information">
+		<file name="file1.txt">2</file>
+		<file name="file2.txt">2</file>
+		<file name="file3.txt">2</file>
+	</word>
+	<word text="is">
+		<file name="file1.txt">3</file>
+		<file name="file2.txt">3</file>
+		<file name="file3.txt">3</file>
+	</word>
+	<word text="like">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="most">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="must">
+		<file name="file1.txt">2</file>
+		<file name="file2.txt">2</file>
+		<file name="file3.txt">2</file>
+	</word>
+	<word text="natural">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="of">
+		<file name="file1.txt">2</file>
+		<file name="file2.txt">2</file>
+		<file name="file3.txt">2</file>
+	</word>
+	<word text="on">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="one">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="organic">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="other">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="paper">
+		<file name="file1.txt">4</file>
+		<file name="file2.txt">4</file>
+		<file name="file3.txt">4</file>
+	</word>
+	<word text="paragraph">
+		<file name="file1.txt">3</file>
+		<file name="file2.txt">3</file>
+		<file name="file3.txt">3</file>
+	</word>
+	<word text="paragraphs">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="particular">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="process">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="progression">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="reader">
+		<file name="file1.txt">2</file>
+		<file name="file2.txt">2</file>
+		<file name="file3.txt">2</file>
+	</word>
+	<word text="recurrent">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="related">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="relationship">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="relationships">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="remind">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="seed">
+		<file name="file1.txt">2</file>
+		<file name="file2.txt">2</file>
+		<file name="file3.txt">2</file>
+	</word>
+	<word text="should">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="statement">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="that">
+		<file name="file1.txt">3</file>
+		<file name="file2.txt">3</file>
+		<file name="file3.txt">3</file>
+	</word>
+	<word text="the">
+		<file name="file1.txt">7</file>
+		<file name="file2.txt">7</file>
+		<file name="file3.txt">7</file>
+	</word>
+	<word text="there">
+		<file name="file1.txt">2</file>
+		<file name="file2.txt">2</file>
+		<file name="file3.txt">2</file>
+	</word>
+	<word text="thesis">
+		<file name="file1.txt">3</file>
+		<file name="file2.txt">3</file>
+		<file name="file3.txt">3</file>
+	</word>
+	<word text="to">
+		<file name="file1.txt">5</file>
+		<file name="file2.txt">5</file>
+		<file name="file3.txt">5</file>
+	</word>
+	<word text="trying">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="what">
+		<file name="file1.txt">2</file>
+		<file name="file2.txt">2</file>
+		<file name="file3.txt">2</file>
+	</word>
+	<word text="where">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="which">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="whole">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="will">
+		<file name="file1.txt">2</file>
+		<file name="file2.txt">2</file>
+		<file name="file3.txt">2</file>
+	</word>
+	<word text="words">
+		<file name="file1.txt">1</file>
+		<file name="file2.txt">1</file>
+		<file name="file3.txt">1</file>
+	</word>
+	<word text="working">
+		<file name="file1.txt">2</file>
+		<file name="file2.txt">2</file>
+		<file name="file3.txt">2</file>
+	</word>
+	<word text="you">
+		<file name="file1.txt">3</file>
+		<file name="file2.txt">3</file>
+		<file name="file3.txt">3</file>
+	</word>
+	<word text="your">
+		<file name="file1.txt">7</file>
+		<file name="file2.txt">7</file>
+		<file name="file3.txt">7</file>
+	</word>
+</fileIndex>

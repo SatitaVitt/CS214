@@ -1,0 +1,1 @@
+this is file2.txt in the directory of interdir@yyyy1111
